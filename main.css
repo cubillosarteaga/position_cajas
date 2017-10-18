@@ -1,0 +1,67 @@
+.padre{
+	with: 50em;
+	height: 50em;
+	background-color: white;
+	
+}
+
+.cuadrado{
+	width: 500px;
+	height: 500px;
+	background: red;
+	/*border: 1px solid red;*/
+	position: absolute;
+	left: 30px;
+	top: 28px;
+}
+
+.cuadrado2{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	/*border: 1px solid red;*/
+	position: absolute;
+	left: 180px;
+	top: 160px;
+}
+
+.cuadrado3{
+	width: 100px;
+	height: 100px;
+	background: purple;
+	/*border: 1px solid red;*/
+	position: absolute;
+	left: 180px;
+	top: 160px;
+}
+
+.cuadrado5{
+	width: 500px;
+	height: 450px;
+	background: blue;
+	/*border: 1px solid red;*/
+	position: absolute;
+	left: 30px;
+	top: 550px;
+
+}
+
+.cuadrado6{
+	width: 200px;
+	height: 200px;
+	background: green;
+	/*border: 1px solid red;*/
+	position: absolute;
+	left: 180px;
+	top: 700px;
+}
+
+.cuadrado7{
+	width: 150px;
+	height: 150px;
+	background: black;
+	/*border: 1px solid red;*/
+	position: absolute;
+	left: 30px;
+	top: 550px;
+}
